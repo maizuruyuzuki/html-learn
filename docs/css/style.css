@@ -215,7 +215,7 @@ z-index: 1;
     background-image: url(../images/bottoml.jpg);
     background-position: center;
     background-size: cover;
-    width:24%
+    width:24%;
     height: 270px;
     border-radius: 20px;
 }
@@ -223,7 +223,7 @@ z-index: 1;
     background-image: url(../images/bottom2.jpg);
     background-position: center;
     background-size: cover;
-    width:24%
+    width:24%;
     height: 270px;
     border-radius: 20px;
 }
@@ -231,7 +231,7 @@ z-index: 1;
     background-image: url(../images/bottom3.jpg);
     background-position: center;
     background-size: cover;
-    width:18%
+    width:18%;
     height: 270px;
     border-radius: 20px;
 }
@@ -260,4 +260,3 @@ footer{
     font-size: 12px;
     margin-top: 40px;
 }
-}}
